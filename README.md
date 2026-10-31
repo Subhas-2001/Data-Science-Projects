@@ -8,14 +8,14 @@ Customer Transaction Prediction
 Bike Rental Demand Prediction
 
 ## Tools and Technologies:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-XGBoost
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
+XGBoost,
+Jupyter Notebook.
 
 ## Project Overview:
 These projects involve applying data science and machine learning techniques to real-world-style problems, including classification, regression, data exploration, model development, and performance evaluation.
