@@ -2,10 +2,10 @@
 This repository contains a collection of data science and machine learning projects demonstrating practical applications of data analysis, data preprocessing, exploratory data analysis, feature engineering, model development, and evaluation.
 
 ## Projects Included:
-Bank GoodCredit – Credit Risk Prediction
-INX Future Inc – Employee Performance Analysis
-Customer Transaction Prediction
-Bike Rental Demand Prediction
+Bank GoodCredit – Credit Risk Prediction,
+INX Future Inc – Employee Performance Analysis,
+Customer Transaction Prediction,
+Bike Rental Demand Prediction.
 
 ## Tools and Technologies:
 Python,
